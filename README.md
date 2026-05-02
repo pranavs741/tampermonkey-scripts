@@ -1,6 +1,6 @@
 # Tampermonkey Scripts
 
-**TITLE:** Kisskh Custom Video Skipper
+**TITLE:** Kisskh Custom Video Skipper (kisskh.js)
 
 **Website:** [kisskh.co](https://kisskh.co)
 
