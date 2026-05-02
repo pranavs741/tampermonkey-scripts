@@ -1,4 +1,4 @@
-# Tmapermonkey Scripts
+# Tampermonkey Scripts
 
 **Website:** [kisskh.co](https://kisskh.co)
 
